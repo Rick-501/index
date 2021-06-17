@@ -18,7 +18,7 @@ if(isset($_GET['option']) && $_POST['opt'] == 'download'){
 echo '<!DOCTYPE html>
 <html>
 <head>
-    <title>Tryag File Manager</title>
+    <title>Rick501 Shell</title>
     <meta name="robots" content="noindex" />
     <style>
         body{
